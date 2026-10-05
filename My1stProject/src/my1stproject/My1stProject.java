@@ -16,8 +16,13 @@ public class My1stProject {
     public static void main(String[] args) {
 
         System.out.println("Guten morgen");
-        System.out.println("DU bist gut genug");
-        System.out.println("");
+        System.out.println("Du bist gut genug");
+        System.out.println(" Wenamechindesama ");
+        int num1;
+        int num2;
+        num1 = 7;
+        num2 = 8;
+        System.out.println("The answer is " + (num1 + num2));
         
     }
     
